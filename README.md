@@ -17,4 +17,4 @@ Home for 2021 Cal Poly SE Capstone Projects
 [Alpha Release](https://pineapple-1.gitbook.io/pineapple-flipt-ed/) | [repo]()
 
 # Common Backend
-[repo]()
+[Alpha Release](https://zzheng07.gitbook.io/flipted-backend/) | [repo]()
