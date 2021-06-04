@@ -14,7 +14,7 @@ Home for 2021 Cal Poly SE Capstone Projects
 [Beta Release](https://zzheng07.gitbook.io/flipted-webrew/) | [repo]()
 
 # Pineapple: teacher: iOS
-[Beta Release](https://pineapple-1.gitbook.io/pineapple-flipt-ed/) | [repo]()
+[Beta Release](https://pineapple-2.gitbook.io/pineapple-2-0/) | [repo]()
 
 # Common Backend
 [Beta Release](https://zzheng07.gitbook.io/flipted-backend/) | [repo]()
