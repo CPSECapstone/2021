@@ -2,7 +2,7 @@
 Home for 2021 Cal Poly SE Capstone Projects
 
 # Hydro: student: web
-[Beta Release](https://flipt-ed-hydro.gitbook.io/flipted-hydro//) | [repo]()
+[Beta Release](https://connorboulais.gitbook.io/flipted-hydro-capstone/) | [repo]()
 
 # Ambiguously Android: student: Android
 [Beta Release](https://flipted-android.gitbook.io/fliptedandroid/) | [repo]()
